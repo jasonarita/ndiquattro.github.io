@@ -1,6 +1,7 @@
 /* Customize container */
 .container {
   max-width: 730px;
+  padding-top: 500px;
 }
 
 /* General tags */
