@@ -3,4 +3,7 @@
   .container {
     max-width: 730px;
   }
+  .header {
+    max-width: 730px;
+  }
 }
