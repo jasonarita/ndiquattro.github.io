@@ -34,6 +34,6 @@ body {
 
 /* Footer */
 .footer {
-  position: absolute;
+  position: bottom;
   bottom: 0;
 }
